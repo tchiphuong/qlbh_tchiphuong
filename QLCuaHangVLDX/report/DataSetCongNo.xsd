@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetCongNo" targetNamespace="http://tempuri.org/DataSetCongNo.xsd" xmlns:mstns="http://tempuri.org/DataSetCongNo.xsd" xmlns="http://tempuri.org/DataSetCongNo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CH_VLXD_DataConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CH_VLXD_DataConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLCuaHangVLDX.Properties.Settings.GlobalReference.Default.CH_VLXD_DataConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_congNoTableAdapter" GeneratorDataComponentClassName="View_congNoTableAdapter" Name="View_congNo" UserDataComponentName="View_congNoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CH_VLXD_DataConnectionString (Settings)" DbObjectName="CH_VLXD_Data.dbo.View_congNo" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tenKhachHang, maHoaDon, tienNo FROM dbo.View_congNo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tenKhachHang" DataSetColumn="tenKhachHang" />
+              <Mapping SourceColumn="maHoaDon" DataSetColumn="maHoaDon" />
+              <Mapping SourceColumn="tienNo" DataSetColumn="tienNo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetCongNo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetCongNo" msprop:Generator_UserDSName="DataSetCongNo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_congNo" msprop:Generator_TableClassName="View_congNoDataTable" msprop:Generator_TableVarName="tableView_congNo" msprop:Generator_TablePropName="View_congNo" msprop:Generator_RowDeletingName="View_congNoRowDeleting" msprop:Generator_RowChangingName="View_congNoRowChanging" msprop:Generator_RowEvHandlerName="View_congNoRowChangeEventHandler" msprop:Generator_RowDeletedName="View_congNoRowDeleted" msprop:Generator_UserTableName="View_congNo" msprop:Generator_RowChangedName="View_congNoRowChanged" msprop:Generator_RowEvArgName="View_congNoRowChangeEvent" msprop:Generator_RowClassName="View_congNoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tenKhachHang" msprop:Generator_ColumnVarNameInTable="columntenKhachHang" msprop:Generator_ColumnPropNameInRow="tenKhachHang" msprop:Generator_ColumnPropNameInTable="tenKhachHangColumn" msprop:Generator_UserColumnName="tenKhachHang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="maHoaDon" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnmaHoaDon" msprop:Generator_ColumnPropNameInRow="maHoaDon" msprop:Generator_ColumnPropNameInTable="maHoaDonColumn" msprop:Generator_UserColumnName="maHoaDon" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tienNo" msprop:Generator_ColumnVarNameInTable="columntienNo" msprop:Generator_ColumnPropNameInRow="tienNo" msprop:Generator_ColumnPropNameInTable="tienNoColumn" msprop:Generator_UserColumnName="tienNo" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:View_congNo" />
+      <xs:field xpath="mstns:maHoaDon" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

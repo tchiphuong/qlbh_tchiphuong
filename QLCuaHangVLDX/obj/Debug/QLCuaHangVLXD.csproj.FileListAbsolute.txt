@@ -1,0 +1,131 @@
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.pdb
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDBUS.pdb
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDDAL.pdb
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDEntity.pdb
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_hoaDon.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_nguoiDung.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Form1.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_dangNhap.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_themKH.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_trangChu.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.frmHoaDon.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.frmKhachHang.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Properties.Resources.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csproj.GenerateResource.Cache
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.exe
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.pdb
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe.config
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDBUS.dll
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDEntity.dll
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_vatLieu.resources
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csprojResolveAssemblyReference.cache
+D:\Documents\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_capNhatGia.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe.config
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.exe
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.pdb
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.pdb
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDBUS.dll
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDEntity.dll
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDBUS.pdb
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDDAL.pdb
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLXDEntity.pdb
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csprojResolveAssemblyReference.cache
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_capNhatGia.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_hoaDon.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_nguoiDung.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_vatLieu.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Form1.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_dangNhap.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_themKH.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_trangChu.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.frmHoaDon.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.frmKhachHang.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Properties.Resources.resources
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csproj.GenerateResource.Cache
+D:\Nien Luan 2 final\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_congNo.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe.config
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.exe
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.pdb
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.pdb
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csprojResolveAssemblyReference.cache
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_capNhatGia.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_congNo.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_hoaDon.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_nguoiDung.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_vatLieu.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_dangNhap.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_themKH.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_trangChu.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Properties.Resources.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csproj.GenerateResource.Cache
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_doanhThu.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_thongTinTK.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_capNhatTK.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.R_nguoiDung.resources
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\RdlCompile.cache
+D:\Documents\Nien Luan 2 final\nienluan2\QLCuaHangVLDX\QLCuaHangVLDX\obj\Debug\RdlCompile.compiled
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe.config
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.exe
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.pdb
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.exe
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\bin\Debug\QLCuaHangVLDX.pdb
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_capNhatGia.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_congNo.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_doanhThu.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_hoaDon.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_nguoiDung.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_vatLieu.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_capNhatTK.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_dangNhap.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_themKH.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_thongTinTK.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_trangChu.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Properties.Resources.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.R_nguoiDung.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csproj.GenerateResource.Cache
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\RdlCompile.cache
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\RdlCompile.compiled
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.RP_HoaDon.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csprojResolveAssemblyReference.cache
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_hoaDon.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.RP_doanhThu.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_vatLieu.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_congNo.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_nhapKho.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_nhapHang.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_xuatHang.resources
+E:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Form1.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csprojAssemblyReference.cache
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_capNhatGia.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_congNo.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_doanhThu.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_hoaDon.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_nguoiDung.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.control.UC_vatLieu.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Form1.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_capNhatTK.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_dangNhap.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_hoaDon.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_nhapKho.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_themKH.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_thongTinTK.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.form.F_trangChu.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.Properties.Resources.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_congNo.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_nhapHang.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_vatLieu.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.F_xuatHang.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.RP_doanhThu.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.RP_HoaDon.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.report.R_nguoiDung.resources
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csproj.GenerateResource.cache
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLXD.csproj.CoreCompileInputs.cache
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.exe
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\QLCuaHangVLDX.pdb
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\RdlCompile.cache
+D:\Documents\Nien Luan 2 final\Source Code\QLCuaHangVLDX\obj\Debug\RdlCompile.compiled
